@@ -1,0 +1,6 @@
+● git config --global user.name "John Doe"
+● git config --global user.email johndoe@example.com
+    ○ las configuraciones solo se corren la primera vez que se instala git en el ordenador.
+● git init -> inicializa un repositorio
+● git add #archivo -> pasa los archivos del workspace al staging area (se puede usar . en vez del nombre del
+archivo)
