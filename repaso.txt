@@ -4,3 +4,9 @@
 ● git init -> inicializa un repositorio
 ● git add #archivo -> pasa los archivos del workspace al staging area (se puede usar . en vez del nombre del
 archivo)
+● git commit -m “mensajes” -> pasa los archivos del staging area al repositorio.
+● git status -> me permite ver el estado actual de mis cambios
+● git log -> me permite ver los commits guardados
+    ○ --oneline -> me los muestra simplificados
+    ○ > archivo.txt los exporta a un archivo
+● git checkout #hash -> me permite regresar a un commit anterior
